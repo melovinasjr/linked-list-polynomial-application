@@ -4,6 +4,10 @@ Coursework project for Data Structures.
 
 This project implements a menu-driven polynomial equation manager in C using linked lists.
 
+## Preview
+
+![Linked List Polynomial Application preview](assets/preview.png)
+
 ## Coursework Note
 
 Built as an academic project to practice linked-list representation, dynamic memory management, and polynomial operations.
